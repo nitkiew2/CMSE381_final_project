@@ -6,7 +6,7 @@ What each file does:
 
 final report.pdf - final writeup for the project
 
-Final Project.Rmd - the R markdown file used to compile the final report.
+Final Project.Rmd - the R markdown file used to compile the final report.  Best to download and open with RStudio
 
 SAT_score_conversion.csv - data for the markdown file, used to convert raw SAT numbers of correct quuestions to the 800-1600 score
 
