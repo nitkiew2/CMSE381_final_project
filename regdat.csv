@@ -1,0 +1,1001 @@
+"","R.E","P.L.E","L","T.P.C","S","Score"
+"1","group B","bachelor's degree","standard","none","F",1260
+"2","group C","some college","standard","completed","F",1340
+"3","group B","master's degree","standard","none","F",1490
+"4","group A","associate's degree","free/reduced","none","M",1010
+"5","group C","some college","standard","none","M",1300
+"6","group B","associate's degree","standard","none","F",1290
+"7","group B","some college","standard","completed","F",1460
+"8","group B","some college","free/reduced","none","M",930
+"9","group D","high school","free/reduced","completed","M",1170
+"10","group B","high school","free/reduced","none","F",1000
+"11","group C","associate's degree","standard","none","M",1080
+"12","group D","associate's degree","standard","none","M",960
+"13","group B","high school","standard","none","F",1250
+"14","group A","some college","standard","completed","M",1280
+"15","group A","master's degree","standard","none","F",1050
+"16","group C","some high school","standard","none","F",1260
+"17","group C","high school","standard","none","M",1420
+"18","group B","some high school","free/reduced","none","F",710
+"19","group C","master's degree","free/reduced","completed","M",980
+"20","group C","associate's degree","free/reduced","none","F",1090
+"21","group D","high school","standard","none","M",1190
+"22","group B","some college","free/reduced","completed","F",1230
+"23","group D","some college","standard","none","M",1020
+"24","group C","some high school","standard","none","F",1230
+"25","group D","bachelor's degree","free/reduced","completed","M",1280
+"26","group A","master's degree","free/reduced","none","M",1250
+"27","group B","some college","standard","none","M",1130
+"28","group C","bachelor's degree","standard","none","F",1220
+"29","group C","high school","standard","none","M",1210
+"30","group D","master's degree","standard","none","F",1200
+"31","group D","some college","standard","none","F",1240
+"32","group B","some college","standard","none","F",1160
+"33","group E","master's degree","free/reduced","none","F",1150
+"34","group D","some college","standard","none","M",930
+"35","group E","some college","standard","none","M",1480
+"36","group E","associate's degree","standard","completed","M",1340
+"37","group D","associate's degree","standard","none","F",1330
+"38","group D","some high school","free/reduced","none","F",1080
+"39","group D","associate's degree","free/reduced","completed","F",1380
+"40","group B","associate's degree","free/reduced","none","M",1100
+"41","group C","associate's degree","free/reduced","none","M",1090
+"42","group C","associate's degree","standard","none","F",1170
+"43","group B","associate's degree","standard","none","F",1100
+"44","group B","some college","free/reduced","completed","M",1140
+"45","group E","associate's degree","free/reduced","none","F",1050
+"46","group B","associate's degree","standard","none","M",1130
+"47","group A","associate's degree","standard","completed","F",1120
+"48","group C","high school","standard","none","F",1230
+"49","group D","associate's degree","free/reduced","completed","F",1190
+"50","group C","high school","standard","completed","M",1370
+"51","group E","some college","standard","none","M",1050
+"52","group E","associate's degree","free/reduced","completed","M",1260
+"53","group C","some college","standard","none","M",990
+"54","group D","high school","standard","none","M",1360
+"55","group C","some high school","free/reduced","completed","F",1320
+"56","group C","high school","free/reduced","none","F",890
+"57","group E","associate's degree","standard","completed","F",1380
+"58","group D","associate's degree","standard","none","M",1050
+"59","group D","some college","standard","completed","M",1110
+"60","group C","some high school","free/reduced","none","F",470
+"61","group E","bachelor's degree","free/reduced","completed","M",1290
+"62","group A","some high school","free/reduced","none","M",900
+"63","group A","associate's degree","free/reduced","none","M",1120
+"64","group C","associate's degree","standard","none","F",1260
+"65","group D","some high school","standard","none","F",1100
+"66","group B","some high school","standard","none","M",1170
+"67","group D","some high school","free/reduced","none","M",920
+"68","group C","some college","standard","none","F",1200
+"69","group B","associate's degree","free/reduced","none","M",1110
+"70","group C","associate's degree","standard","none","F",1040
+"71","group D","some college","free/reduced","completed","F",1160
+"72","group D","some college","standard","completed","M",1150
+"73","group A","associate's degree","free/reduced","none","F",970
+"74","group C","some high school","free/reduced","none","M",1110
+"75","group C","some high school","standard","none","M",980
+"76","group B","associate's degree","free/reduced","none","M",940
+"77","group E","some high school","standard","none","M",780
+"78","group A","bachelor's degree","standard","completed","M",1340
+"79","group D","some high school","standard","completed","F",1190
+"80","group E","master's degree","standard","none","F",1180
+"81","group B","associate's degree","standard","none","F",1000
+"82","group B","high school","free/reduced","none","M",990
+"83","group A","some college","free/reduced","completed","M",1020
+"84","group E","associate's degree","standard","none","M",1210
+"85","group D","high school","free/reduced","none","M",900
+"86","group C","some college","standard","none","F",1310
+"87","group C","some college","free/reduced","none","F",1350
+"88","group D","associate's degree","standard","none","F",1250
+"89","group A","some college","standard","none","F",1150
+"90","group D","some high school","standard","none","F",1330
+"91","group C","bachelor's degree","standard","none","F",1230
+"92","group C","high school","free/reduced","none","M",830
+"93","group C","high school","standard","none","M",1260
+"94","group C","associate's degree","free/reduced","completed","M",970
+"95","group B","some college","standard","none","F",1400
+"96","group C","associate's degree","free/reduced","completed","M",1340
+"97","group B","some high school","standard","completed","M",1170
+"98","group E","some college","standard","completed","F",1210
+"99","group D","some college","free/reduced","none","F",1140
+"100","group D","bachelor's degree","standard","none","F",1180
+"101","group B","some college","standard","none","M",1260
+"102","group D","bachelor's degree","standard","completed","M",1230
+"103","group D","associate's degree","standard","none","F",1420
+"104","group B","high school","standard","completed","M",1040
+"105","group C","some college","standard","completed","M",1520
+"106","group C","some college","standard","none","F",1170
+"107","group D","master's degree","standard","none","F",1500
+"108","group E","associate's degree","standard","completed","M",1180
+"109","group B","associate's degree","free/reduced","none","F",1160
+"110","group B","some high school","standard","none","F",1220
+"111","group D","associate's degree","free/reduced","completed","F",1420
+"112","group C","high school","standard","none","M",1100
+"113","group A","associate's degree","standard","none","M",1040
+"114","group D","some college","standard","none","F",1060
+"115","group E","bachelor's degree","standard","completed","F",1590
+"116","group C","high school","standard","none","M",1330
+"117","group B","bachelor's degree","free/reduced","none","F",1340
+"118","group D","bachelor's degree","standard","none","F",1330
+"119","group D","some high school","standard","none","F",1100
+"120","group C","some college","standard","none","F",1140
+"121","group C","bachelor's degree","standard","completed","F",1400
+"122","group B","associate's degree","standard","completed","M",1470
+"123","group C","some college","standard","completed","F",1460
+"124","group D","high school","free/reduced","none","M",1130
+"125","group E","some college","standard","none","M",1330
+"126","group B","high school","standard","none","F",1430
+"127","group B","some high school","standard","none","M",1220
+"128","group D","some college","standard","completed","M",1240
+"129","group D","master's degree","standard","none","M",1340
+"130","group A","bachelor's degree","standard","none","F",1020
+"131","group D","master's degree","standard","none","M",1420
+"132","group C","some high school","free/reduced","completed","M",970
+"133","group E","some college","free/reduced","completed","M",1320
+"134","group C","some college","standard","completed","F",1340
+"135","group D","bachelor's degree","free/reduced","completed","M",1290
+"136","group C","bachelor's degree","standard","none","M",1070
+"137","group B","some high school","standard","completed","M",1010
+"138","group E","high school","standard","none","M",1160
+"139","group C","associate's degree","standard","none","F",1140
+"140","group D","some college","standard","completed","M",1200
+"141","group D","some high school","standard","none","F",1270
+"142","group C","some college","free/reduced","none","F",1130
+"143","group E","some college","free/reduced","completed","F",1010
+"144","group A","high school","standard","none","M",1030
+"145","group D","some college","standard","none","M",1350
+"146","group C","some college","free/reduced","none","F",790
+"147","group B","some high school","standard","none","M",1380
+"148","group C","associate's degree","free/reduced","none","M",1220
+"149","group D","bachelor's degree","standard","completed","F",1260
+"150","group E","associate's degree","free/reduced","completed","M",1570
+"151","group A","some high school","standard","completed","M",1180
+"152","group A","bachelor's degree","standard","none","M",1260
+"153","group B","associate's degree","standard","completed","F",1150
+"154","group D","bachelor's degree","standard","none","M",1020
+"155","group D","some high school","standard","none","M",1160
+"156","group C","some college","standard","completed","F",1340
+"157","group E","high school","free/reduced","completed","F",1240
+"158","group B","some college","free/reduced","none","M",1120
+"159","group B","associate's degree","standard","completed","F",1280
+"160","group D","associate's degree","free/reduced","none","M",1170
+"161","group B","associate's degree","free/reduced","completed","M",1330
+"162","group E","some college","free/reduced","completed","F",1360
+"163","group B","master's degree","free/reduced","none","M",1040
+"164","group C","high school","standard","none","M",1040
+"165","group E","master's degree","standard","none","F",1410
+"166","group C","bachelor's degree","standard","completed","F",1580
+"167","group C","high school","free/reduced","completed","M",1040
+"168","group B","master's degree","free/reduced","completed","F",1210
+"169","group B","high school","standard","completed","F",1270
+"170","group C","some college","free/reduced","completed","F",1230
+"171","group A","high school","standard","completed","M",1260
+"172","group E","some high school","standard","none","M",1450
+"173","group D","some college","standard","none","F",1370
+"174","group C","associate's degree","standard","none","F",1200
+"175","group C","bachelor's degree","free/reduced","completed","F",1000
+"176","group C","master's degree","standard","completed","F",1390
+"177","group B","high school","free/reduced","completed","F",1040
+"178","group C","associate's degree","standard","completed","F",1270
+"179","group B","master's degree","free/reduced","completed","F",1110
+"180","group D","some high school","standard","completed","F",1580
+"181","group C","master's degree","free/reduced","completed","M",1200
+"182","group C","some college","free/reduced","none","F",1090
+"183","group E","high school","standard","none","F",1010
+"184","group D","associate's degree","standard","none","F",1210
+"185","group C","some high school","free/reduced","completed","M",1000
+"186","group C","associate's degree","free/reduced","completed","M",1190
+"187","group E","high school","standard","none","M",1280
+"188","group D","some high school","standard","completed","M",1170
+"189","group B","some high school","free/reduced","none","M",1010
+"190","group C","bachelor's degree","standard","none","F",1370
+"191","group E","associate's degree","standard","none","F",1190
+"192","group D","some college","standard","completed","M",1320
+"193","group B","some high school","standard","none","F",1160
+"194","group D","some college","standard","completed","M",1220
+"195","group C","master's degree","standard","completed","F",1310
+"196","group D","associate's degree","standard","none","M",1100
+"197","group C","some high school","free/reduced","completed","M",1150
+"198","group E","high school","free/reduced","none","M",1070
+"199","group B","some college","free/reduced","none","F",1020
+"200","group B","bachelor's degree","free/reduced","none","F",1310
+"201","group C","associate's degree","standard","completed","F",1300
+"202","group D","some college","free/reduced","none","F",1270
+"203","group C","associate's degree","standard","none","M",1230
+"204","group B","associate's degree","standard","none","F",1160
+"205","group C","some college","standard","none","M",1000
+"206","group D","some high school","standard","completed","M",1280
+"207","group E","bachelor's degree","standard","none","M",1240
+"208","group E","high school","standard","completed","M",1330
+"209","group B","some college","free/reduced","none","F",1300
+"210","group B","some college","free/reduced","none","F",1130
+"211","group D","some high school","free/reduced","completed","M",1330
+"212","group C","some college","free/reduced","none","M",820
+"213","group C","high school","free/reduced","none","F",1030
+"214","group C","associate's degree","free/reduced","completed","M",1090
+"215","group E","high school","standard","completed","M",1410
+"216","group B","some high school","standard","completed","M",1350
+"217","group E","associate's degree","free/reduced","completed","F",1400
+"218","group C","high school","free/reduced","none","F",900
+"219","group B","high school","free/reduced","none","M",1230
+"220","group B","some high school","standard","completed","M",1110
+"221","group D","high school","standard","completed","F",1170
+"222","group B","associate's degree","standard","none","M",1360
+"223","group C","some high school","free/reduced","none","F",1120
+"224","group D","some high school","standard","none","M",1360
+"225","group B","associate's degree","standard","completed","F",1130
+"226","group E","master's degree","free/reduced","none","F",1030
+"227","group C","some college","standard","none","F",1250
+"228","group D","high school","standard","none","M",1070
+"229","group A","some high school","free/reduced","none","M",1200
+"230","group C","some college","standard","completed","F",1470
+"231","group D","some college","standard","none","M",1230
+"232","group C","associate's degree","standard","none","M",960
+"233","group B","bachelor's degree","standard","none","F",1310
+"234","group E","some high school","standard","none","M",1430
+"235","group C","bachelor's degree","standard","completed","M",1370
+"236","group D","associate's degree","standard","none","M",1320
+"237","group D","bachelor's degree","free/reduced","none","M",1170
+"238","group D","some high school","standard","completed","F",1190
+"239","group B","some college","standard","none","M",1040
+"240","group C","associate's degree","standard","none","M",1360
+"241","group D","high school","free/reduced","completed","M",1220
+"242","group E","bachelor's degree","standard","none","F",1360
+"243","group D","high school","standard","none","F",1060
+"244","group E","some college","standard","none","M",1040
+"245","group D","some high school","standard","none","M",1260
+"246","group C","associate's degree","standard","none","M",1320
+"247","group E","associate's degree","standard","none","M",1370
+"248","group B","high school","standard","completed","F",1160
+"249","group B","high school","standard","none","F",1170
+"250","group C","high school","standard","none","M",1140
+"251","group A","some high school","standard","completed","M",1000
+"252","group D","some college","free/reduced","none","F",1310
+"253","group B","some high school","standard","completed","F",1180
+"254","group D","master's degree","standard","none","M",1320
+"255","group D","high school","standard","none","M",1050
+"256","group E","some college","standard","none","F",1200
+"257","group C","associate's degree","free/reduced","none","F",1200
+"258","group C","associate's degree","standard","completed","M",1310
+"259","group B","some college","standard","none","F",1270
+"260","group C","master's degree","free/reduced","completed","F",1280
+"261","group C","some high school","free/reduced","completed","F",1250
+"262","group C","some college","standard","completed","M",1330
+"263","group C","some high school","free/reduced","none","F",1000
+"264","group E","high school","standard","none","F",1530
+"265","group D","high school","standard","none","M",1260
+"266","group D","some high school","free/reduced","none","M",1010
+"267","group C","bachelor's degree","standard","none","F",1250
+"268","group D","high school","standard","none","F",1250
+"269","group D","associate's degree","standard","completed","F",1470
+"270","group E","some college","free/reduced","none","F",1250
+"271","group C","bachelor's degree","standard","none","M",1180
+"272","group C","some college","standard","none","M",1020
+"273","group D","associate's degree","free/reduced","none","F",1040
+"274","group D","some college","standard","none","F",1210
+"275","group B","some college","standard","completed","M",1380
+"276","group C","bachelor's degree","standard","none","M",1320
+"277","group C","some high school","standard","completed","F",1440
+"278","group E","high school","standard","completed","F",1170
+"279","group C","some high school","free/reduced","none","F",1290
+"280","group B","bachelor's degree","free/reduced","none","M",1170
+"281","group D","high school","standard","none","M",1010
+"282","group D","high school","standard","none","M",980
+"283","group D","bachelor's degree","free/reduced","none","F",1310
+"284","group D","some college","free/reduced","completed","F",1280
+"285","group B","some high school","standard","none","F",940
+"286","group B","associate's degree","standard","completed","M",1350
+"287","group E","associate's degree","standard","completed","M",1480
+"288","group B","some high school","standard","none","F",1300
+"289","group B","bachelor's degree","free/reduced","none","M",1350
+"290","group E","some high school","standard","completed","M",1310
+"291","group C","associate's degree","standard","none","M",1250
+"292","group D","some high school","standard","none","M",1320
+"293","group C","some high school","standard","completed","M",1140
+"294","group E","bachelor's degree","standard","none","F",1230
+"295","group D","high school","free/reduced","completed","M",1310
+"296","group B","associate's degree","free/reduced","none","M",1150
+"297","group A","some high school","standard","completed","M",960
+"298","group E","associate's degree","standard","completed","M",1230
+"299","group C","high school","free/reduced","completed","M",970
+"300","group D","associate's degree","free/reduced","none","M",1410
+"301","group A","some college","free/reduced","completed","M",1340
+"302","group D","some high school","free/reduced","none","M",1070
+"303","group C","associate's degree","standard","completed","F",1290
+"304","group B","associate's degree","standard","none","M",1280
+"305","group C","associate's degree","standard","completed","F",1310
+"306","group A","some college","standard","none","M",1210
+"307","group E","some college","standard","completed","M",1490
+"308","group C","some high school","standard","none","M",1010
+"309","group B","associate's degree","free/reduced","none","F",1140
+"310","group D","high school","free/reduced","none","F",1050
+"311","group B","associate's degree","standard","none","F",1280
+"312","group B","bachelor's degree","standard","none","M",1150
+"313","group D","bachelor's degree","standard","completed","M",1180
+"314","group C","associate's degree","free/reduced","completed","F",1200
+"315","group C","bachelor's degree","standard","completed","F",1170
+"316","group C","high school","standard","none","M",1200
+"317","group D","master's degree","standard","completed","F",1370
+"318","group C","associate's degree","standard","none","M",1320
+"319","group B","bachelor's degree","standard","none","M",1200
+"320","group D","associate's degree","free/reduced","none","F",1130
+"321","group C","high school","free/reduced","completed","F",1280
+"322","group E","high school","standard","none","F",1340
+"323","group C","some college","standard","none","F",1290
+"324","group C","some high school","free/reduced","none","F",1010
+"325","group C","high school","free/reduced","none","F",950
+"326","group C","some college","standard","none","F",1430
+"327","group C","some college","standard","none","M",1130
+"328","group A","some college","free/reduced","none","M",730
+"329","group C","associate's degree","standard","completed","M",1330
+"330","group B","some high school","standard","none","F",1000
+"331","group C","high school","standard","none","M",1180
+"332","group C","associate's degree","standard","none","M",920
+"333","group E","associate's degree","standard","completed","M",1110
+"334","group B","associate's degree","standard","none","M",1400
+"335","group C","bachelor's degree","standard","none","F",1440
+"336","group B","some college","free/reduced","none","F",1160
+"337","group D","some high school","standard","completed","M",1250
+"338","group C","associate's degree","standard","none","M",1000
+"339","group B","some high school","free/reduced","none","F",780
+"340","group D","some high school","free/reduced","completed","F",990
+"341","group C","high school","free/reduced","none","M",1100
+"342","group C","high school","standard","none","F",1170
+"343","group B","high school","standard","completed","F",1250
+"344","group D","associate's degree","standard","completed","M",1200
+"345","group D","some college","standard","none","M",1270
+"346","group C","high school","standard","none","F",1290
+"347","group B","some college","standard","none","M",1130
+"348","group C","bachelor's degree","standard","completed","F",1430
+"349","group D","high school","free/reduced","none","M",1250
+"350","group E","associate's degree","standard","none","M",1330
+"351","group B","bachelor's degree","standard","none","F",1120
+"352","group E","some college","standard","none","M",1130
+"353","group C","some college","standard","completed","F",1250
+"354","group C","associate's degree","standard","none","F",1050
+"355","group C","some college","standard","none","F",1180
+"356","group B","bachelor's degree","standard","none","F",1190
+"357","group A","associate's degree","standard","none","M",1150
+"358","group C","some college","free/reduced","completed","F",1070
+"359","group D","some college","free/reduced","none","M",1120
+"360","group D","some college","standard","none","F",1400
+"361","group B","high school","standard","none","F",1110
+"362","group B","some high school","standard","completed","M",1370
+"363","group C","some college","standard","none","F",1070
+"364","group D","some high school","free/reduced","none","F",820
+"365","group C","some college","standard","none","M",1110
+"366","group A","bachelor's degree","free/reduced","completed","M",1060
+"367","group C","high school","standard","completed","M",1140
+"368","group C","bachelor's degree","free/reduced","none","M",1140
+"369","group A","some high school","free/reduced","none","F",1060
+"370","group D","some high school","standard","none","F",1330
+"371","group E","some college","standard","none","M",1320
+"372","group C","some college","free/reduced","completed","F",1120
+"373","group D","some high school","standard","none","M",1260
+"374","group D","some college","standard","completed","F",1450
+"375","group D","bachelor's degree","standard","none","F",1170
+"376","group E","associate's degree","free/reduced","none","M",960
+"377","group D","some high school","standard","none","F",1380
+"378","group D","master's degree","free/reduced","completed","F",1480
+"379","group A","some high school","standard","none","F",1290
+"380","group A","bachelor's degree","standard","none","M",1170
+"381","group B","associate's degree","standard","none","F",1380
+"382","group C","associate's degree","standard","completed","M",1480
+"383","group C","master's degree","free/reduced","none","M",1320
+"384","group E","some high school","free/reduced","none","F",950
+"385","group A","some high school","free/reduced","none","F",930
+"386","group E","some college","standard","none","F",1240
+"387","group E","bachelor's degree","standard","none","F",1210
+"388","group C","associate's degree","free/reduced","none","F",1180
+"389","group D","high school","standard","none","F",1160
+"390","group D","master's degree","standard","none","M",1250
+"391","group E","some high school","free/reduced","completed","M",1200
+"392","group D","some college","standard","none","F",1290
+"393","group E","some college","standard","none","M",1240
+"394","group C","associate's degree","standard","completed","M",1090
+"395","group C","some high school","standard","completed","F",1240
+"396","group A","high school","free/reduced","none","M",970
+"397","group B","high school","free/reduced","none","F",1110
+"398","group C","associate's degree","standard","none","F",1440
+"399","group B","some high school","standard","none","M",1200
+"400","group D","some high school","standard","none","M",1110
+"401","group C","some high school","standard","completed","F",1110
+"402","group A","some college","standard","none","M",1000
+"403","group A","some college","free/reduced","none","F",1070
+"404","group D","high school","standard","completed","F",1510
+"405","group C","high school","standard","none","F",1100
+"406","group C","some high school","standard","none","F",1200
+"407","group B","associate's degree","standard","completed","M",1180
+"408","group B","associate's degree","standard","none","F",1350
+"409","group D","high school","free/reduced","completed","F",1070
+"410","group D","associate's degree","standard","completed","M",1400
+"411","group D","master's degree","standard","completed","F",1250
+"412","group E","some college","standard","completed","M",1360
+"413","group D","associate's degree","standard","none","M",1180
+"414","group B","some high school","standard","completed","M",1180
+"415","group C","bachelor's degree","free/reduced","completed","F",1170
+"416","group E","high school","standard","none","M",1300
+"417","group C","bachelor's degree","standard","completed","M",1230
+"418","group C","associate's degree","standard","none","M",1240
+"419","group D","some college","standard","none","M",1160
+"420","group E","high school","free/reduced","completed","M",1090
+"421","group C","associate's degree","free/reduced","completed","F",1430
+"422","group D","high school","standard","completed","F",1120
+"423","group D","master's degree","free/reduced","completed","F",1070
+"424","group A","some high school","standard","completed","F",1240
+"425","group B","some college","free/reduced","none","M",900
+"426","group C","some college","free/reduced","none","F",1160
+"427","group C","bachelor's degree","standard","none","M",1390
+"428","group C","some high school","free/reduced","none","M",1210
+"429","group A","some high school","free/reduced","none","M",1140
+"430","group C","some high school","free/reduced","none","M",1150
+"431","group C","associate's degree","free/reduced","none","M",1150
+"432","group C","high school","standard","none","F",1190
+"433","group C","high school","standard","none","M",1100
+"434","group A","some high school","free/reduced","none","F",1040
+"435","group C","some high school","standard","none","M",1210
+"436","group C","some college","free/reduced","completed","M",1020
+"437","group D","associate's degree","standard","none","M",1240
+"438","group D","associate's degree","free/reduced","none","M",1250
+"439","group C","high school","standard","none","M",1140
+"440","group D","some high school","standard","completed","M",1430
+"441","group C","some college","standard","completed","F",1270
+"442","group D","high school","standard","none","F",1330
+"443","group A","some high school","free/reduced","none","F",1170
+"444","group B","associate's degree","standard","none","F",1290
+"445","group A","some high school","free/reduced","none","M",1320
+"446","group C","some high school","standard","completed","F",1240
+"447","group D","some college","free/reduced","none","M",1170
+"448","group C","high school","standard","completed","M",1370
+"449","group B","high school","standard","none","M",970
+"450","group B","associate's degree","standard","none","M",1290
+"451","group C","some college","free/reduced","completed","F",1290
+"452","group E","some college","standard","none","F",1570
+"453","group C","associate's degree","free/reduced","none","F",1240
+"454","group C","some college","free/reduced","none","M",1120
+"455","group C","associate's degree","free/reduced","none","F",1100
+"456","group C","bachelor's degree","free/reduced","none","M",970
+"457","group D","bachelor's degree","standard","none","F",1390
+"458","group D","associate's degree","free/reduced","none","M",1040
+"459","group E","bachelor's degree","standard","none","F",1600
+"460","group B","high school","standard","completed","M",1220
+"461","group C","bachelor's degree","free/reduced","none","M",1070
+"462","group B","some college","free/reduced","none","M",1040
+"463","group E","some college","standard","none","F",1240
+"464","group C","some college","free/reduced","none","F",1400
+"465","group A","bachelor's degree","standard","completed","M",1200
+"466","group C","some college","standard","none","F",1420
+"467","group D","associate's degree","free/reduced","none","F",810
+"468","group A","high school","free/reduced","completed","M",1220
+"469","group A","high school","free/reduced","completed","F",1370
+"470","group C","some college","standard","none","M",1370
+"471","group C","associate's degree","standard","completed","F",1400
+"472","group C","high school","standard","none","F",1210
+"473","group C","associate's degree","standard","completed","F",1310
+"474","group D","some high school","standard","none","F",1140
+"475","group B","associate's degree","standard","completed","F",1470
+"476","group D","bachelor's degree","standard","completed","F",1290
+"477","group E","bachelor's degree","standard","completed","M",1220
+"478","group D","associate's degree","standard","none","M",1280
+"479","group D","master's degree","standard","none","F",1150
+"480","group E","associate's degree","standard","none","M",1250
+"481","group B","high school","standard","completed","M",1240
+"482","group D","associate's degree","free/reduced","none","F",1080
+"483","group C","some college","free/reduced","none","M",1180
+"484","group A","high school","standard","none","M",1050
+"485","group B","associate's degree","standard","none","F",1030
+"486","group C","high school","standard","none","M",1240
+"487","group D","some college","free/reduced","none","M",1080
+"488","group C","associate's degree","free/reduced","none","F",1210
+"489","group B","some high school","standard","completed","M",1120
+"490","group A","associate's degree","free/reduced","completed","M",1350
+"491","group A","associate's degree","free/reduced","none","F",1270
+"492","group C","associate's degree","standard","none","F",1190
+"493","group C","some college","standard","none","F",1390
+"494","group C","bachelor's degree","standard","none","F",1400
+"495","group B","high school","standard","none","F",1130
+"496","group D","high school","standard","completed","M",1180
+"497","group C","some college","standard","none","F",1040
+"498","group D","some college","free/reduced","completed","F",1210
+"499","group B","some high school","standard","none","F",1200
+"500","group E","some college","standard","none","M",1270
+"501","group D","master's degree","standard","none","F",1310
+"502","group B","associate's degree","standard","completed","F",1490
+"503","group C","some college","free/reduced","none","M",1130
+"504","group E","associate's degree","standard","completed","F",1490
+"505","group D","master's degree","free/reduced","none","F",1020
+"506","group B","some high school","standard","none","F",1350
+"507","group A","high school","standard","none","M",1190
+"508","group B","bachelor's degree","free/reduced","none","M",1090
+"509","group C","master's degree","standard","none","M",1330
+"510","group C","bachelor's degree","standard","none","F",1420
+"511","group D","some college","standard","none","M",1270
+"512","group A","some high school","standard","none","M",1070
+"513","group D","some high school","free/reduced","none","M",1080
+"514","group B","some high school","standard","completed","F",1100
+"515","group B","master's degree","free/reduced","completed","F",1420
+"516","group C","some high school","standard","completed","F",1360
+"517","group D","some college","standard","none","F",1350
+"518","group E","some college","standard","completed","F",1220
+"519","group D","some high school","standard","completed","F",1260
+"520","group B","high school","free/reduced","completed","F",1260
+"521","group D","some college","standard","none","M",1120
+"522","group C","associate's degree","standard","none","F",1450
+"523","group D","bachelor's degree","standard","none","M",1150
+"524","group C","master's degree","free/reduced","none","M",1070
+"525","group C","high school","standard","completed","M",1040
+"526","group E","some college","standard","none","M",1150
+"527","group C","some high school","free/reduced","completed","M",1100
+"528","group C","high school","free/reduced","none","F",950
+"529","group D","bachelor's degree","free/reduced","none","F",880
+"530","group C","associate's degree","standard","none","F",1200
+"531","group C","associate's degree","standard","completed","F",1210
+"532","group C","some high school","standard","none","F",1030
+"533","group E","associate's degree","standard","completed","M",1130
+"534","group E","associate's degree","standard","completed","F",1410
+"535","group B","high school","standard","completed","M",1230
+"536","group C","bachelor's degree","free/reduced","completed","F",1290
+"537","group C","associate's degree","standard","completed","M",1080
+"538","group D","high school","standard","none","F",1100
+"539","group E","bachelor's degree","standard","completed","M",1290
+"540","group A","associate's degree","standard","completed","M",1500
+"541","group C","high school","standard","completed","M",1250
+"542","group D","associate's degree","free/reduced","completed","M",1340
+"543","group C","associate's degree","standard","none","F",1320
+"544","group D","associate's degree","standard","none","F",1420
+"545","group D","master's degree","standard","none","F",1170
+"546","group E","some high school","free/reduced","completed","M",1330
+"547","group A","some high school","standard","completed","F",1530
+"548","group C","high school","standard","completed","M",1220
+"549","group C","high school","free/reduced","none","F",1170
+"550","group C","master's degree","standard","none","M",1280
+"551","group C","some high school","free/reduced","none","M",1280
+"552","group B","bachelor's degree","free/reduced","completed","M",1430
+"553","group B","associate's degree","standard","none","F",970
+"554","group D","some college","free/reduced","none","M",1230
+"555","group E","associate's degree","standard","none","M",990
+"556","group C","some college","free/reduced","none","F",860
+"557","group C","associate's degree","standard","completed","F",1190
+"558","group C","master's degree","free/reduced","none","M",1160
+"559","group B","associate's degree","free/reduced","none","F",1150
+"560","group D","some high school","standard","none","M",1200
+"561","group D","some college","standard","completed","F",1290
+"562","group C","some college","standard","none","F",1220
+"563","group C","bachelor's degree","standard","completed","M",1520
+"564","group D","some college","free/reduced","completed","F",1260
+"565","group B","bachelor's degree","free/reduced","none","M",1010
+"566","group B","associate's degree","standard","none","M",990
+"567","group E","bachelor's degree","free/reduced","completed","F",1540
+"568","group D","master's degree","free/reduced","completed","F",1210
+"569","group B","high school","free/reduced","none","M",1070
+"570","group D","bachelor's degree","free/reduced","none","M",1190
+"571","group B","some college","standard","completed","M",1250
+"572","group A","bachelor's degree","standard","none","M",1490
+"573","group C","some college","standard","none","F",1090
+"574","group C","high school","free/reduced","completed","F",1100
+"575","group E","high school","standard","none","F",1290
+"576","group A","associate's degree","free/reduced","completed","M",1010
+"577","group A","some college","standard","completed","M",1080
+"578","group B","high school","standard","none","F",1400
+"579","group B","some college","free/reduced","completed","F",1060
+"580","group D","master's degree","standard","none","F",1120
+"581","group D","some high school","standard","none","F",1440
+"582","group E","some high school","standard","none","F",1320
+"583","group D","bachelor's degree","free/reduced","none","F",1230
+"584","group D","associate's degree","standard","completed","F",1280
+"585","group D","some college","standard","none","F",1260
+"586","group C","associate's degree","standard","none","F",1240
+"587","group A","high school","standard","none","F",1170
+"588","group C","bachelor's degree","free/reduced","none","F",1070
+"589","group C","some college","standard","none","F",1120
+"590","group A","some high school","standard","none","F",1100
+"591","group C","some college","free/reduced","none","M",1090
+"592","group A","some high school","standard","none","M",1150
+"593","group E","bachelor's degree","standard","none","M",1190
+"594","group E","high school","standard","none","F",1270
+"595","group C","bachelor's degree","standard","completed","F",1540
+"596","group C","bachelor's degree","standard","completed","F",1190
+"597","group B","high school","free/reduced","none","M",730
+"598","group A","some high school","standard","none","M",1040
+"599","group D","high school","standard","none","F",1240
+"600","group D","some high school","standard","none","F",1280
+"601","group D","master's degree","standard","none","F",1110
+"602","group C","high school","standard","none","F",800
+"603","group E","some college","standard","none","F",1310
+"604","group D","high school","free/reduced","none","M",1090
+"605","group D","master's degree","free/reduced","completed","M",1420
+"606","group C","some high school","standard","none","M",1240
+"607","group C","associate's degree","standard","none","F",1380
+"608","group C","master's degree","free/reduced","none","F",1010
+"609","group E","some college","standard","none","F",1140
+"610","group B","associate's degree","standard","none","F",1140
+"611","group D","some college","free/reduced","completed","M",1180
+"612","group C","some college","standard","none","F",1130
+"613","group C","bachelor's degree","standard","completed","M",1500
+"614","group C","associate's degree","standard","none","F",1240
+"615","group A","associate's degree","standard","none","F",1430
+"616","group C","high school","standard","none","F",1180
+"617","group E","bachelor's degree","standard","none","F",910
+"618","group D","bachelor's degree","standard","none","M",1390
+"619","group D","master's degree","standard","none","M",1450
+"620","group C","associate's degree","free/reduced","completed","M",1210
+"621","group C","high school","free/reduced","none","F",990
+"622","group B","bachelor's degree","free/reduced","none","M",1140
+"623","group C","high school","free/reduced","completed","M",1070
+"624","group A","some college","standard","completed","M",1530
+"625","group E","bachelor's degree","free/reduced","none","F",1120
+"626","group D","some college","standard","completed","M",1590
+"627","group B","associate's degree","free/reduced","completed","M",1200
+"628","group D","associate's degree","standard","none","M",1050
+"629","group D","some college","free/reduced","none","M",1030
+"630","group C","some high school","standard","completed","F",1010
+"631","group D","some college","standard","none","M",1200
+"632","group B","high school","standard","none","M",1240
+"633","group B","bachelor's degree","standard","completed","F",1250
+"634","group C","high school","standard","none","F",1360
+"635","group D","some high school","standard","none","M",1370
+"636","group A","high school","standard","none","M",1220
+"637","group B","high school","free/reduced","completed","F",1280
+"638","group D","some high school","standard","completed","F",1400
+"639","group E","some college","standard","none","M",1340
+"640","group D","associate's degree","standard","none","F",1270
+"641","group D","high school","standard","none","M",980
+"642","group D","associate's degree","free/reduced","completed","F",1370
+"643","group B","some high school","free/reduced","none","F",1300
+"644","group E","high school","standard","completed","F",1300
+"645","group B","high school","standard","none","M",1180
+"646","group B","bachelor's degree","standard","completed","F",1280
+"647","group D","associate's degree","standard","none","F",1150
+"648","group E","high school","free/reduced","none","F",1170
+"649","group B","high school","standard","none","F",1040
+"650","group D","some college","standard","completed","F",1280
+"651","group C","some high school","free/reduced","completed","M",1060
+"652","group A","high school","standard","completed","F",1260
+"653","group D","some college","standard","completed","F",1450
+"654","group A","associate's degree","standard","completed","F",1220
+"655","group B","some high school","standard","none","F",1290
+"656","group B","some college","standard","none","F",1170
+"657","group C","associate's degree","free/reduced","none","M",1250
+"658","group D","some high school","standard","none","M",1180
+"659","group D","associate's degree","free/reduced","none","F",1040
+"660","group D","associate's degree","standard","none","M",1440
+"661","group C","some college","free/reduced","none","M",1270
+"662","group C","some high school","standard","none","M",1210
+"663","group D","some college","free/reduced","none","F",1160
+"664","group C","high school","standard","none","F",1190
+"665","group D","associate's degree","standard","none","M",1250
+"666","group C","some high school","free/reduced","completed","F",1070
+"667","group C","some college","free/reduced","completed","F",1210
+"668","group B","bachelor's degree","free/reduced","none","F",1360
+"669","group C","some college","standard","none","M",1220
+"670","group D","associate's degree","standard","completed","M",1310
+"671","group C","high school","free/reduced","none","F",1220
+"672","group D","associate's degree","free/reduced","none","M",1050
+"673","group C","some college","standard","none","F",1260
+"674","group C","associate's degree","standard","completed","F",1300
+"675","group D","high school","standard","completed","F",1260
+"676","group B","some college","standard","completed","F",1100
+"677","group E","some college","standard","completed","F",1280
+"678","group C","some high school","standard","completed","F",1280
+"679","group D","associate's degree","free/reduced","none","M",1320
+"680","group D","some college","free/reduced","none","M",1140
+"681","group D","high school","standard","none","F",1230
+"682","group B","high school","standard","none","M",1140
+"683","group B","high school","standard","none","M",1110
+"684","group C","some high school","free/reduced","completed","F",870
+"685","group B","some college","standard","completed","M",1170
+"686","group E","master's degree","standard","completed","F",1560
+"687","group E","some college","standard","completed","M",1310
+"688","group D","associate's degree","free/reduced","none","M",1300
+"689","group A","high school","free/reduced","none","M",1040
+"690","group E","some college","free/reduced","none","M",1470
+"691","group C","associate's degree","standard","none","F",1040
+"692","group E","associate's degree","free/reduced","none","F",1280
+"693","group C","bachelor's degree","free/reduced","completed","F",1250
+"694","group D","associate's degree","standard","none","F",1290
+"695","group C","some high school","standard","none","F",1080
+"696","group D","some college","free/reduced","none","F",1380
+"697","group C","associate's degree","standard","completed","F",1360
+"698","group A","bachelor's degree","standard","none","F",1180
+"699","group D","associate's degree","standard","completed","F",1220
+"700","group C","high school","free/reduced","none","M",1160
+"701","group E","bachelor's degree","standard","completed","F",1350
+"702","group B","some high school","standard","none","F",1170
+"703","group A","bachelor's degree","standard","completed","M",1400
+"704","group D","some college","standard","none","F",1170
+"705","group B","some high school","free/reduced","completed","F",1140
+"706","group A","bachelor's degree","free/reduced","none","M",1180
+"707","group D","high school","standard","none","M",930
+"708","group C","some college","standard","none","M",1140
+"709","group D","high school","standard","none","M",1420
+"710","group D","associate's degree","free/reduced","completed","F",1030
+"711","group C","some college","standard","completed","M",1470
+"712","group E","some high school","standard","completed","F",1370
+"713","group D","some college","standard","none","F",1590
+"714","group D","master's degree","standard","none","M",1360
+"715","group B","some high school","standard","completed","F",1190
+"716","group B","associate's degree","free/reduced","completed","F",1380
+"717","group C","associate's degree","standard","completed","M",1270
+"718","group C","associate's degree","standard","completed","F",1570
+"719","group C","high school","standard","none","F",1290
+"720","group E","associate's degree","free/reduced","completed","M",1380
+"721","group C","some college","free/reduced","none","F",1200
+"722","group D","some high school","free/reduced","completed","M",1100
+"723","group B","some high school","free/reduced","completed","F",1370
+"724","group C","high school","standard","none","M",980
+"725","group B","some college","standard","none","M",960
+"726","group E","some college","standard","completed","M",1290
+"727","group E","associate's degree","standard","completed","F",1250
+"728","group E","some high school","standard","completed","M",1120
+"729","group D","high school","free/reduced","none","F",1350
+"730","group C","some college","standard","none","M",970
+"731","group B","associate's degree","free/reduced","completed","F",1250
+"732","group A","some high school","free/reduced","none","M",1020
+"733","group C","some college","standard","completed","F",1440
+"734","group D","some high school","standard","none","M",1020
+"735","group E","some college","free/reduced","none","F",1080
+"736","group C","master's degree","standard","none","M",1140
+"737","group C","associate's degree","standard","none","M",1420
+"738","group B","some college","free/reduced","completed","F",1140
+"739","group D","associate's degree","standard","none","M",1290
+"740","group C","high school","free/reduced","none","M",1110
+"741","group D","bachelor's degree","standard","none","M",1290
+"742","group A","associate's degree","free/reduced","none","F",1000
+"743","group C","high school","standard","none","F",1360
+"744","group C","associate's degree","standard","completed","F",1180
+"745","group B","some college","free/reduced","none","M",1060
+"746","group D","associate's degree","standard","none","M",1280
+"747","group D","high school","standard","none","M",1240
+"748","group C","some college","standard","none","M",1200
+"749","group C","bachelor's degree","free/reduced","none","F",1070
+"750","group B","some college","standard","completed","M",1400
+"751","group D","some high school","standard","completed","M",1220
+"752","group E","some college","standard","none","M",1200
+"753","group C","master's degree","free/reduced","completed","M",1310
+"754","group C","some high school","standard","completed","F",1380
+"755","group C","associate's degree","free/reduced","none","M",1090
+"756","group E","associate's degree","standard","none","F",1440
+"757","group D","some college","standard","none","M",1080
+"758","group E","bachelor's degree","free/reduced","completed","M",1230
+"759","group D","some college","free/reduced","completed","F",1100
+"760","group B","some college","standard","completed","M",1260
+"761","group C","high school","free/reduced","none","F",1140
+"762","group D","some high school","standard","none","F",1050
+"763","group D","some high school","standard","completed","M",1350
+"764","group B","high school","standard","none","F",1150
+"765","group D","some college","standard","none","M",1130
+"766","group B","high school","standard","none","F",1260
+"767","group C","high school","standard","completed","F",1210
+"768","group B","high school","standard","completed","M",1200
+"769","group D","some high school","standard","none","F",1230
+"770","group A","some college","free/reduced","none","M",1110
+"771","group B","high school","standard","none","M",1020
+"772","group D","bachelor's degree","standard","none","M",1280
+"773","group B","some high school","free/reduced","completed","F",1140
+"774","group C","bachelor's degree","free/reduced","none","F",1240
+"775","group B","some college","standard","none","M",1160
+"776","group B","some high school","free/reduced","none","F",1050
+"777","group B","high school","standard","none","F",1220
+"778","group C","some college","free/reduced","none","F",910
+"779","group A","some college","standard","completed","F",1300
+"780","group E","associate's degree","standard","completed","M",1450
+"781","group D","associate's degree","free/reduced","none","F",1050
+"782","group B","master's degree","standard","none","F",1380
+"783","group B","high school","free/reduced","completed","F",1340
+"784","group C","associate's degree","standard","completed","F",1090
+"785","group C","bachelor's degree","standard","completed","M",1410
+"786","group B","some high school","standard","completed","F",920
+"787","group E","some high school","free/reduced","none","F",1290
+"788","group B","some college","standard","none","F",760
+"789","group C","associate's degree","free/reduced","none","M",1170
+"790","group C","master's degree","free/reduced","none","F",1100
+"791","group B","high school","standard","none","F",1070
+"792","group D","some college","free/reduced","none","F",1170
+"793","group D","high school","free/reduced","none","M",1210
+"794","group E","some high school","standard","completed","M",1410
+"795","group B","high school","standard","none","F",980
+"796","group E","associate's degree","free/reduced","completed","F",1170
+"797","group D","high school","standard","none","M",1230
+"798","group E","associate's degree","free/reduced","none","F",1310
+"799","group E","some college","standard","none","M",1150
+"800","group C","associate's degree","standard","none","F",1070
+"801","group C","some high school","standard","completed","M",1210
+"802","group C","some high school","standard","completed","M",1300
+"803","group E","associate's degree","standard","none","F",1470
+"804","group B","some college","standard","none","F",1380
+"805","group C","some college","standard","none","F",1280
+"806","group A","some college","free/reduced","none","M",1310
+"807","group D","some college","free/reduced","none","F",1220
+"808","group E","high school","free/reduced","none","F",930
+"809","group C","high school","standard","none","M",1350
+"810","group B","bachelor's degree","standard","none","M",1070
+"811","group A","some high school","standard","none","M",940
+"812","group A","high school","free/reduced","none","M",990
+"813","group C","master's degree","standard","completed","F",1120
+"814","group E","some high school","standard","completed","M",1370
+"815","group C","high school","standard","none","F",1320
+"816","group B","some high school","standard","completed","M",1470
+"817","group A","bachelor's degree","standard","none","F",1070
+"818","group D","bachelor's degree","free/reduced","completed","M",1190
+"819","group B","high school","free/reduced","none","F",1180
+"820","group C","some high school","standard","none","F",1390
+"821","group A","some high school","standard","completed","F",1430
+"822","group D","bachelor's degree","free/reduced","none","F",1410
+"823","group E","some college","free/reduced","completed","M",1020
+"824","group B","high school","free/reduced","none","F",1320
+"825","group C","some high school","free/reduced","none","F",1050
+"826","group C","high school","standard","none","M",1150
+"827","group C","associate's degree","free/reduced","completed","F",1160
+"828","group C","some high school","standard","none","F",1220
+"829","group D","some high school","free/reduced","completed","F",1310
+"830","group B","some high school","standard","none","M",1120
+"831","group A","some college","free/reduced","none","F",1120
+"832","group C","bachelor's degree","free/reduced","completed","F",1360
+"833","group A","bachelor's degree","standard","none","M",1140
+"834","group B","high school","standard","completed","F",1360
+"835","group B","some college","standard","none","M",1050
+"836","group C","high school","standard","completed","F",1180
+"837","group E","high school","standard","none","M",1190
+"838","group A","high school","standard","completed","F",1320
+"839","group B","associate's degree","free/reduced","completed","M",1090
+"840","group C","associate's degree","standard","none","F",1230
+"841","group D","high school","free/reduced","none","F",970
+"842","group C","some high school","standard","none","M",1110
+"843","group B","high school","free/reduced","completed","F",810
+"844","group B","some college","free/reduced","completed","M",1280
+"845","group D","some high school","free/reduced","completed","F",1060
+"846","group E","master's degree","standard","none","M",1430
+"847","group C","master's degree","standard","completed","M",1440
+"848","group D","high school","standard","none","M",1100
+"849","group C","high school","standard","none","F",1170
+"850","group D","associate's degree","standard","none","M",1290
+"851","group C","master's degree","standard","none","M",1210
+"852","group A","high school","standard","none","F",1160
+"853","group E","some college","standard","none","F",1430
+"854","group E","some high school","standard","none","M",1260
+"855","group C","some high school","standard","none","M",1130
+"856","group B","bachelor's degree","standard","none","F",1550
+"857","group B","some college","free/reduced","none","M",1240
+"858","group C","bachelor's degree","standard","none","F",1270
+"859","group B","high school","standard","completed","M",1010
+"860","group C","associate's degree","free/reduced","none","M",1320
+"861","group C","associate's degree","standard","none","F",1080
+"862","group E","master's degree","free/reduced","none","F",1380
+"863","group D","bachelor's degree","free/reduced","completed","M",930
+"864","group C","some college","standard","completed","F",1260
+"865","group C","associate's degree","standard","none","M",1520
+"866","group D","some college","standard","completed","M",1380
+"867","group C","high school","free/reduced","none","M",1080
+"868","group B","associate's degree","standard","none","M",1020
+"869","group E","associate's degree","free/reduced","completed","M",1280
+"870","group C","associate's degree","free/reduced","none","M",1020
+"871","group B","high school","standard","none","M",1070
+"872","group C","some college","standard","completed","F",1250
+"873","group B","associate's degree","standard","completed","M",1360
+"874","group E","associate's degree","free/reduced","none","M",1440
+"875","group C","bachelor's degree","free/reduced","none","F",1050
+"876","group C","some college","free/reduced","none","M",1250
+"877","group D","some college","standard","none","M",1360
+"878","group C","some high school","standard","none","M",1100
+"879","group D","some high school","standard","none","F",1200
+"880","group D","associate's degree","standard","none","F",1230
+"881","group C","bachelor's degree","standard","completed","M",1170
+"882","group E","bachelor's degree","standard","completed","F",1230
+"883","group B","high school","free/reduced","none","F",1210
+"884","group D","bachelor's degree","free/reduced","none","M",1020
+"885","group E","associate's degree","standard","none","F",1040
+"886","group C","associate's degree","standard","completed","F",1230
+"887","group E","associate's degree","standard","completed","F",1530
+"888","group C","high school","free/reduced","none","M",1120
+"889","group D","some college","free/reduced","none","F",1220
+"890","group D","high school","free/reduced","none","M",990
+"891","group E","some college","standard","completed","F",1420
+"892","group E","associate's degree","standard","none","F",1410
+"893","group A","master's degree","free/reduced","none","F",1130
+"894","group D","some high school","standard","completed","M",1340
+"895","group E","associate's degree","standard","none","F",1140
+"896","group E","some high school","free/reduced","none","F",870
+"897","group B","high school","free/reduced","none","M",830
+"898","group B","some high school","free/reduced","completed","F",1250
+"899","group D","associate's degree","standard","completed","M",1150
+"900","group D","some high school","standard","completed","F",1270
+"901","group D","master's degree","standard","none","M",1400
+"902","group C","master's degree","standard","none","F",1280
+"903","group A","high school","free/reduced","completed","F",910
+"904","group D","bachelor's degree","free/reduced","completed","F",1550
+"905","group D","some high school","free/reduced","none","F",1300
+"906","group D","some college","standard","none","M",1360
+"907","group B","high school","standard","none","M",1050
+"908","group D","some college","standard","completed","F",1390
+"909","group C","bachelor's degree","free/reduced","none","F",1230
+"910","group E","bachelor's degree","standard","completed","M",1220
+"911","group D","bachelor's degree","free/reduced","none","M",990
+"912","group A","some college","standard","none","F",1300
+"913","group C","bachelor's degree","standard","completed","F",1100
+"914","group C","bachelor's degree","free/reduced","completed","F",1080
+"915","group B","associate's degree","free/reduced","none","F",1050
+"916","group E","some college","standard","none","F",1190
+"917","group E","bachelor's degree","standard","completed","M",1600
+"918","group C","high school","standard","none","F",1040
+"919","group C","associate's degree","standard","completed","F",1210
+"920","group B","some college","standard","completed","M",1490
+"921","group D","high school","free/reduced","none","M",1200
+"922","group C","high school","free/reduced","none","F",950
+"923","group D","high school","standard","none","M",1210
+"924","group B","associate's degree","free/reduced","none","F",1120
+"925","group D","high school","free/reduced","none","M",1240
+"926","group E","some high school","standard","completed","M",1200
+"927","group E","associate's degree","free/reduced","none","M",1120
+"928","group D","high school","free/reduced","completed","F",1190
+"929","group E","associate's degree","free/reduced","completed","M",970
+"930","group C","some high school","free/reduced","none","F",1040
+"931","group C","some college","free/reduced","completed","M",1220
+"932","group D","some college","free/reduced","none","M",1130
+"933","group D","associate's degree","free/reduced","completed","M",1190
+"934","group C","bachelor's degree","free/reduced","completed","M",1260
+"935","group C","associate's degree","standard","completed","M",1520
+"936","group D","some college","free/reduced","none","M",1180
+"937","group A","associate's degree","standard","none","M",1130
+"938","group E","high school","free/reduced","none","F",1100
+"939","group D","some college","standard","completed","M",1380
+"940","group D","some high school","standard","completed","M",1260
+"941","group C","master's degree","free/reduced","completed","M",1230
+"942","group D","master's degree","standard","none","F",1420
+"943","group C","high school","standard","none","M",1250
+"944","group A","some high school","free/reduced","completed","M",1130
+"945","group B","high school","standard","none","F",1140
+"946","group C","associate's degree","standard","none","F",1090
+"947","group B","high school","standard","none","M",1350
+"948","group D","some college","free/reduced","none","F",1060
+"949","group B","some high school","free/reduced","completed","M",1030
+"950","group E","high school","free/reduced","completed","F",1190
+"951","group E","high school","standard","none","M",1380
+"952","group D","some college","standard","completed","F",1320
+"953","group E","some high school","free/reduced","none","F",1260
+"954","group C","high school","standard","completed","M",1070
+"955","group C","some college","standard","none","F",1180
+"956","group E","associate's degree","standard","none","M",1180
+"957","group C","some college","standard","none","M",1390
+"958","group D","master's degree","standard","none","F",1540
+"959","group D","high school","standard","none","F",1060
+"960","group C","high school","standard","none","M",1300
+"961","group A","some college","standard","none","F",1110
+"962","group D","some high school","free/reduced","none","F",1040
+"963","group E","associate's degree","standard","none","F",1600
+"964","group C","some high school","free/reduced","completed","F",1240
+"965","group D","some college","standard","none","M",1170
+"966","group D","some college","standard","none","F",1190
+"967","group A","some high school","standard","completed","M",1190
+"968","group C","some college","standard","none","M",1150
+"969","group E","associate's degree","standard","none","F",1210
+"970","group B","bachelor's degree","standard","none","F",1330
+"971","group D","bachelor's degree","standard","none","F",1530
+"972","group C","some high school","standard","completed","M",1270
+"973","group A","high school","free/reduced","completed","F",1060
+"974","group D","some college","free/reduced","none","F",1090
+"975","group A","some college","standard","none","F",1120
+"976","group C","some college","standard","completed","F",1260
+"977","group B","some college","free/reduced","completed","M",1120
+"978","group C","associate's degree","standard","none","M",1140
+"979","group D","high school","standard","completed","M",1010
+"980","group C","associate's degree","standard","none","F",1500
+"981","group B","high school","free/reduced","none","F",600
+"982","group D","some high school","standard","none","M",1330
+"983","group B","some high school","standard","completed","M",1370
+"984","group A","some college","standard","completed","F",1390
+"985","group C","some high school","standard","none","F",1300
+"986","group A","high school","standard","none","M",1070
+"987","group C","associate's degree","standard","none","F",1010
+"988","group E","some high school","standard","completed","M",1310
+"989","group A","some high school","free/reduced","none","F",970
+"990","group D","some college","free/reduced","completed","F",1310
+"991","group E","high school","free/reduced","completed","M",1360
+"992","group B","some high school","standard","completed","F",1270
+"993","group D","associate's degree","free/reduced","none","F",1190
+"994","group D","bachelor's degree","free/reduced","none","F",1210
+"995","group A","high school","standard","none","M",1160
+"996","group E","master's degree","standard","completed","F",1490
+"997","group C","high school","free/reduced","none","M",1110
+"998","group C","high school","free/reduced","completed","F",1160
+"999","group D","some college","standard","completed","F",1260
+"1000","group D","some college","free/reduced","none","F",1370

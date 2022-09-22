@@ -1,0 +1,298 @@
+---
+title: "CMSE381 final project"
+author: "Jason Nitkiewicz"
+date: "November 30, 2021"
+output: pdf_document
+---
+
+```{r packages}
+library(tidyverse)
+library(tree)
+```
+
+```{r data}
+dat <- read.csv('Student Performance New.csv')
+conv <- read.csv('SAT_score_conversion.csv')
+dat
+names(conv)[1] = 'raw.math'
+conv
+```
+```{r calc SAT score}
+dat$math.section = 0
+dat$reading.section = 0
+dat$writing.section = 0
+
+
+
+#math
+for(i in 1: nrow(dat)){
+  for(j in 1: length(conv$raw.math)){
+    if(dat$raw.math[i] == conv$raw.math[j]){
+      dat$math.section[i] = conv$math.section[j]
+      break
+    }
+  }
+}
+
+#reading
+for(i in 1: nrow(dat)){
+  for(j in 1: length(conv$raw.reading)){
+    if(dat$raw.reading[i] == conv$raw.reading[j]){
+      dat$reading.section[i] = conv$reading.section[j]
+      break
+    }
+  }
+}
+
+#writing
+for(i in 1: nrow(dat)){
+  for(j in 1: length(conv$raw.writing)){
+    if(dat$raw.writing[i] == conv$raw.writing[j]){
+      dat$writing.section[i] = conv$writing.section[j]
+      break
+    }
+  }
+}
+
+dat$reading.writing.section = 10 * (dat$reading.section + dat$writing.section)
+dat$total.score = (dat$math.section + dat$reading.writing.section)
+dat
+```
+
+
+```{r scores plot}
+plot(dat$math.section, dat$reading.writing.section)
+abline(0,1, col = 'red')
+abline(100,1, col = 'blue')
+abline(-100,1, col = 'blue')
+```
+
+```{r simplify}
+rdat <- data.frame(X = dat$X,
+                      race.ethnicity = dat$race.ethnicity,
+                      parental.level.of.education = dat$parental.level.of.education,
+                      lunch = dat$lunch,
+                      test.preparation.course = dat$test.preparation.course,
+                      sex = dat$sex,
+                      total.score = dat$total.score)
+
+rdat$race.ethnicity <- as.factor(rdat$race.ethnicity)
+rdat$parental.level.of.education <- as.factor(rdat$parental.level.of.education)
+rdat$lunch <- as.factor(rdat$lunch)
+rdat$test.preparation.course <- as.factor(rdat$test.preparation.course)
+rdat$sex <- as.factor(rdat$sex)
+rdat
+```
+
+```{r boxplots}
+p1<- ggplot(rdat, aes(x = race.ethnicity,
+                     y = total.score, 
+                     col = reorder(parental.level.of.education, total.score))) + 
+  geom_boxplot()
+p1$labels$colour <- "Parental Education"
+p1
+
+p2<- ggplot(rdat, aes(x = parental.level.of.education,
+                     y = total.score, 
+                     col = race.ethnicity)) + 
+  geom_boxplot()
+p2$labels$colour <- "Parental Education"
+p2
+
+
+ggplot(rdat, aes(x = race.ethnicity, y = total.score)) + geom_boxplot() + labs(title ='race')
+ggplot(rdat, aes(x = parental.level.of.education, y = total.score)) + geom_boxplot() + labs(title ='education')
+ggplot(rdat, aes(x = lunch, y = total.score)) + geom_boxplot() + labs(title ='lunch')
+ggplot(rdat, aes(x = test.preparation.course, y = total.score)) + geom_boxplot() + labs(title = 'course')
+ggplot(rdat, aes(x = sex, y = total.score)) + geom_boxplot() + labs(title ='sex')
+```
+
+
+```{r overlap}
+library(dplyr)
+filter_low <- rdat %>% filter(race.ethnicity == 'group A')%>%
+  filter(parental.level.of.education == 'some high school' | parental.level.of.education == 'high school')%>%
+  filter(lunch == 'free/reduced') %>%
+  filter(test.preparation.course == 'none')%>%
+  filter(sex == 'M')
+filter_low
+
+filter_high <- rdat %>% filter(race.ethnicity == 'group E' | race.ethnicity == 'group D')%>%
+  filter(parental.level.of.education == 'bachelor\'s degree' | parental.level.of.education == 'master\'s degree')%>%
+  filter(lunch == 'standard') %>%
+  filter(test.preparation.course == 'completed')%>%
+  filter(sex == 'F')
+filter_high
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r scatterplots}
+
+ggplot(rdat, aes(x = X, y = total.score, col = race.ethnicity)) + geom_point() + labs(title ='race')
+ggplot(rdat, aes(x = X, y = total.score, col = parental.level.of.education)) + geom_point() + labs(title ='education')
+ggplot(rdat, aes(x = X, y = total.score, col = lunch)) + geom_point() + labs(title ='lunch')
+ggplot(rdat, aes(x = X, y = total.score, col = test.preparation.course)) + geom_point() + labs(title ='course')
+ggplot(rdat, aes(x = X, y = total.score, col = sex)) + geom_point() + labs(title ='sex')
+```
+
+```{r violin}
+ggplot(rdat, aes(x = race.ethnicity, y = total.score)) + geom_violin() + labs(title ='race')
+ggplot(rdat, aes(x = parental.level.of.education, y = total.score)) + geom_violin() + labs(title ='education')
+ggplot(rdat, aes(x = lunch, y = total.score)) + geom_violin() + labs(title ='lunch')
+ggplot(rdat, aes(x = test.preparation.course, y = total.score)) + geom_violin() + labs(title = 'course')
+ggplot(rdat, aes(x = sex, y = total.score)) + geom_violin() + labs(title ='sex')
+
+```
+
+```{r regression data}
+regdat <- rdat[, !(names(rdat) %in% c('X'))]
+names(regdat) = c('R.E', 'P.L.E', 'L', 'T.P.C', 'S', 'Score')
+regdat
+```
+
+```{r regdumb}
+regdumb <- model.matrix(~., regdat)
+res <- cor(regdumb)
+heatmap(res)
+```
+
+
+```{r regression tree}
+set.seed(1)
+train <- sample(1: nrow (regdat), nrow(regdat) / 2)
+
+tree.sat <- tree (Score ∼ ., regdat , subset = train)
+summary(tree.sat)
+
+plot (tree.sat, main = 'tree')
+text (tree.sat , pretty = 1)
+
+tree.pred <- predict(tree.sat , regdat[-train, 1:5])
+plot (tree.pred , regdat[-train, 6], main = 'Tree test accuracy')
+abline (0, 1)
+mean ((tree.pred - regdat[-train, 6])^2)
+```
+
+
+
+```{r pruned regression tree cv}
+cv.sat <- cv.tree(tree.sat)
+plot (cv.sat$size , cv.sat$dev, type = "b", main = 'tree cross validation')
+
+prune.sat <- prune.tree(tree.sat , best = 4)
+plot (prune.sat, main = 'cv best tree')
+text (prune.sat , pretty = 0)
+```
+
+```{r prediciton}
+yhat <- predict(prune.sat , newdata = regdat[-train , ])
+sat.test <- regdat[-train , "Score"]
+plot(yhat, sat.test)
+abline (0, 1)
+mean ((yhat - sat.test)^2)
+
+```
+
+```{r random forest}
+library (randomForest)
+set.seed (1)
+bag.sat <- randomForest(Score ∼ ., data = regdat , subset = train , mtry = 2, importance = TRUE, ntree = 500)
+bag.sat
+
+plot(bag.sat)
+
+yhat.bag <- predict (bag.sat , newdata = regdat[-train , ])
+plot (yhat.bag , sat.test)
+abline (0, 1)
+mean ((yhat.bag - sat.test)^2)
+importance(bag.sat)
+
+varImpPlot (bag.sat)
+```
+
+```{r boosting, cv}
+library(gbm)
+set.seed (1)
+id = c(1,2,3,4)
+shrinkage_lam = 10^seq(-2, -4, length = 20)
+for( i in id){
+  mse = c()
+  for(lam in shrinkage_lam){
+      boost.sat <- gbm (Score ∼ ., data = regdat[train , ],
+                     distribution = "gaussian", n.trees = 5000,
+                     interaction.depth = i, shrinkage = lam)
+      
+      yhat.boost <- predict (boost.sat ,
+                             newdata = regdat[-train, ], n.trees = 5000)
+      
+      mse <- c(mse, mean((yhat.boost - regdat[-train, 'Score'])^2))
+  }
+  t <- toString(i)
+  plot(shrinkage_lam, mse, main = t)
+  print(paste(min(mse), shrinkage_lam[which.min(mse)]))
+}
+boost.sat <- gbm (Score ∼ ., data = regdat,
+                     distribution = "gaussian", n.trees = 5000,
+                     interaction.depth = 1, shrinkage = 0.001)
+boost.sat
+yhat.boost <- predict (boost.sat ,newdata = regdat[-train, ], n.trees = 5000)
+plot(yhat.boost, regdat[-train, 6], main = 'boosting predicted versus actual')
+abline (0, 1, col = 'red')
+abline (100, 1, col = 'blue')
+abline (-100, 1, col = 'blue')
+#text (boost.sat , pretty = 0)
+```
+
+```{r lm}
+lm.fit <- lm(Score ~., data = regdat[train,])
+lm.pred <- predict(lm.fit, newdata = regdat[-train,])
+#lm.pred
+summary(lm.fit)
+plot(lm.pred, regdat[-train, 6], main = 'Linear regression')
+abline (0, 1, col = 'red')
+print(mean((lm.pred-regdat[-train, 6])^2))
+```
+
+
+```{r glm}
+glm.fit <- glm(Score ~., data = regdat[train,])
+glm.fit
+glm.pred <- predict(glm.fit, newdata = regdat[-train,],  family = binomial)
+#glm.pred
+plot(glm.pred, regdat[-train, 6])
+abline (0, 1)
+print(mean((glm.pred-regdat[-train, 6])^2))
+```
+
+
+```{r final plot}
+type_of__test <- c('regression tree', 'cv pruned', 'random forest', 'boosting', 'linear', 'neural network')
+MSE <- c(22288.3, 21912.34, 20785.44, 19522.3, 19573.54, 19718.5)
+df <- data.frame(type.of.test = type_of__test, MSE = MSE)
+df
+ggplot(df,aes(x = type.of.test, y = MSE)) + geom_point() + labs(title = 'MSE for different types of tests')
+```
+
+
+```{r final plot adj scores}
+type_of__test <- c('regression tree', 'cv pruned', 'random forest', 'boosting', 'linear', 'neural network')
+MSE <- c(222.883, 219.1234, 207.8544, 195.223, 195.7354, 197.185)
+df <- data.frame(type.of.test = type_of__test, MSE = MSE)
+ggplot(df,aes(x = type.of.test, y = MSE)) + geom_point() + labs(title = 'MSE for different types of tests.', subtitle = 'MSE for scores adjusted to be out of 160 vs 1600')
+```
+
+
+
+
