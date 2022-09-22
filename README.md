@@ -2,7 +2,7 @@
 Final project for CMSE 381 Introduction to Data Science Methods
 
 
-What each file does (I'ts been a year, so I had to figure it out, not enitrely sure what all of them do, but here's what I was able to find)
+What each file does:
 
 final report.pdf - final writeup for the project
 
